@@ -1,0 +1,5 @@
+<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="150" height="150" rx="75" fill="#2196F3"/>
+  <text x="75" y="85" font-family="Arial" font-size="48" fill="white" text-anchor="middle">HRMS</text>
+  <circle cx="75" cy="75" r="65" stroke="white" stroke-width="2" fill="none"/>
+</svg>
